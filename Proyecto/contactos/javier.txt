@@ -1,0 +1,4 @@
+Nombre: javier
+Telefono: 04128786953
+Categoría: trabajo
+Tipo: celular

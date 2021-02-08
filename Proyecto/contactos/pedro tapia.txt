@@ -1,0 +1,4 @@
+Nombre: pedro tapia
+Telefono: 04128786953
+Categoría: cliente
+Tipo: fijo
