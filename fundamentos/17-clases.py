@@ -3,7 +3,7 @@ class Restaurant:
     def agregar_restaurant(self):
         print('agregando...')
 
-#intanciar una clase 
+#intanciar una clase en python
 
 restaurant_rio = Restaurant()
 
